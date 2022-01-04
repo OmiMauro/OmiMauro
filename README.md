@@ -5,6 +5,13 @@
 
 - 🌱 I’m currently learning **Develop Web Backend**
 
+- 🌱 I was trained in [Responsive Web Design](https://freecodecamp.org/espanol/certification/
+ominuka-mauro/responsive-web-design)
+
+- 🌱 I was trained in [Javascript Algorithms and Data Structure](https://freecodecamp.org/espanol/certification/
+ominuka-mauro/javascript-algorithms-and-data-
+structures)
+
 - 🤝 I developed [Citroneros Misioneros](https://citronerosmisioneros.com.ar/)
 
 - 🤝 I developed [Tabay Bike](https://tabaybike.herokuapp.com)
