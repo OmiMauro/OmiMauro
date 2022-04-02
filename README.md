@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Manu Omiñuka</h1>
 <h3 align="center">A developer full stack from Argentina</h3>
 
-- 🌱 I’m **Development Web Full stack with NodeJS and ReactJS**
+- 🌱 I’m **Developer Web Full Stack with NodeJS and ReactJS**
 
 - 🔭 I was trained on [Alkemy Labs](https://assets.alkemy.org/certificates/auth0%7C60f9ce10d5b44b0019b5b36b/056e4c57-d270-48a8-b86a-cd3d6a99106a.pdf)
 
