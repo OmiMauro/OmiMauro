@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Manu Omiñuka</h1>
+<h1 align="center">Hi 👋, I'm  Mauro Omiñuka</h1>
 <h3 align="center">A developer full stack from Argentina</h3>
 
 - 🌱 I’m **Developer Web Full Stack with NodeJS and ReactJS**
