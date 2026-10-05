@@ -12,6 +12,7 @@ Open to remote Full Stack, Backend and DevOps roles.
 - Wrote and maintained 25+ GitHub Actions CI/CD pipelines that push Docker images to ECR and deploy to ECS, Lambda and S3.
 - Designed and ran load tests with up to 10,000 IoT devices.
 - Integrated payments (Stripe, MercadoPago), AI-generated content (OpenAI, Gemini) and electronic invoicing with ARCA, Argentina's tax agency.
+- Built Claude Code skills and MCP integrations (Sentry, CloudWatch, Notion, browser automation) that automate QA passes, log audits and pre-release checks.
 
 ## Tech stack
 
@@ -22,6 +23,7 @@ Open to remote Full Stack, Backend and DevOps roles.
 | Databases | MongoDB, PostgreSQL, MySQL, Redis, DynamoDB |
 | Cloud & DevOps | AWS (ECS, ECR, Lambda, Kinesis, S3, SES, SQS, RDS, CloudWatch), Docker, GitHub Actions, Sentry |
 | Testing | Jest, Vitest, Playwright, Cypress, Testcontainers |
+| AI tooling | Claude Code (custom skills), MCP servers (Sentry, Notion, browser automation) |
 
 ## Projects
 
