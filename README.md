@@ -1,26 +1,46 @@
-<h1 align="center">Hi 👋, I'm  Mauro Omiñuka</h1>
-<h3 align="center">A developer full stack from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Mauro Omiñuka</h1>
+<h3 align="center">Full Stack & DevOps Developer from Argentina</h3>
+<p align="center">Node.js · NestJS · React/Next.js · AWS</p>
 
-- 🌱 I’m **Developer Web Full Stack with NodeJS and ReactJS**
+I have 5 years of experience building and running production products for clients in the US and the Middle East. I build APIs with Node.js/NestJS and frontends with React/Next.js, and I run the AWS infrastructure behind them.
 
-- 🔭 I was trained on [Alkemy Labs](https://assets.alkemy.org/certificates/auth0%7C60f9ce10d5b44b0019b5b36b/056e4c57-d270-48a8-b86a-cd3d6a99106a.pdf)
+Open to remote Full Stack, Backend and DevOps roles.
 
-- 🌱 I was trained in [Responsive Web Design](https://freecodecamp.org/espanol/certification/ominuka-mauro/responsive-web-design)
+## Highlights
 
-- 🌱 I was trained in [Javascript Algorithms and Data Structures](https://freecodecamp.org/espanol/certification/ominuka-mauro/javascript-algorithms-and-data-structures)
+- Migrated 1 TB of data from DynamoDB to MongoDB on an IoT platform and replaced Lambda with Kinesis consumers, saving ~USD 1,000 per month.
+- Wrote and maintained 25+ GitHub Actions CI/CD pipelines that push Docker images to ECR and deploy to ECS, Lambda and S3.
+- Designed and ran load tests with up to 10,000 IoT devices.
+- Integrated payments (Stripe, MercadoPago), AI-generated content (OpenAI, Gemini) and electronic invoicing with ARCA, Argentina's tax agency.
 
-- 🤝 I developed [Citroneros Misioneros](https://citronerosmisioneros.com.ar/)
+## Tech stack
 
-- 🤝 I developed [Tabay Bike](https://tabaybike.herokuapp.com)
+| Area | Tools |
+| --- | --- |
+| Backend | Node.js, NestJS, Express, TypeScript, microservices, MQTT, Bull/Redis |
+| Frontend | React, Next.js, React Native, Tailwind, shadcn/ui, React Query, Redux |
+| Databases | MongoDB, PostgreSQL, MySQL, Redis, DynamoDB |
+| Cloud & DevOps | AWS (ECS, ECR, Lambda, Kinesis, S3, SES, SQS, RDS, CloudWatch), Docker, GitHub Actions, Sentry |
+| Testing | Jest, Vitest, Playwright, Cypress, Testcontainers |
 
-- 📫 How to reach me **ominuka.mauro@gmail.com**
+## Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mauro-ominuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauro-ominuka" height="30" width="40" /></a>
-<a href="https://instagram.com/manu_ominuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manu_ominuka" height="30" width="40" /></a>
-</p>
+- **Rinde** (private, in pilot): billing system for healthcare providers in Argentina. It issues invoices through ARCA and generates claim sheets for health insurers. NestJS, MongoDB, Next.js and Playwright.
+- **Citroneros Misioneros**: event management dashboard with MercadoPago payments, built with the MERN stack. Code: [backend](https://github.com/OmiMauro/citro-backend) · [frontend](https://github.com/OmiMauro/citro-frontend)
+- **Tabay Bike**: landing page for a cycling event, built with the MERN stack. Code: [backend](https://github.com/OmiMauro/tabaybike-backend) · [frontend](https://github.com/OmiMauro/tabaybike-frontend)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Certifications
 
+- Next.js: El framework de React para producción, DevTalles (2025)
+- NestJS Advanced Concepts, NestJS (2024)
+- NestJS Authentication and Authorization, NestJS (2024)
+- Engineer Learning Path, Postman Academy (2024)
+- TypeScript 5 for Developers, Udemy (2024)
+- [Node.js Acceleration Program](https://assets.alkemy.org/certificates/auth0%7C60f9ce10d5b44b0019b5b36b/056e4c57-d270-48a8-b86a-cd3d6a99106a.pdf), Alkemy (2022)
+- [JavaScript Algorithms and Data Structures](https://freecodecamp.org/espanol/certification/ominuka-mauro/javascript-algorithms-and-data-structures), freeCodeCamp (2021)
+- [Responsive Web Design](https://freecodecamp.org/espanol/certification/ominuka-mauro/responsive-web-design), freeCodeCamp (2021)
+
+## Contact
+
+- Email: ominuka.mauro@gmail.com
+- LinkedIn: [linkedin.com/in/mauro-ominuka](https://www.linkedin.com/in/mauro-ominuka/?locale=en-US)
